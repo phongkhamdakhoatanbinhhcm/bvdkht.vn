@@ -8,7 +8,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2995/phong-kham-nam-khoa-quan-2"
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
         <title>Top 10 Phòng Khám Nam Khoa Quận 2 Uy Tín Hàng Đầu Cho Nam Giới</title>
-        <meta content="Phòng khám nam khoa quận 2 bao gồm: Phòng Khám Đa Khoa Tân Bình, " name="description">
+        <meta content="Phòng khám nam khoa quận 2 bao gồm: Phòng Khám Đa Khoa Tân Bình, Bệnh Viện Quốc Tế Mỹ (AIH), Phòng Khám Đa Khoa Tân Cảng, Phòng Khám Đa Khoa Quốc Tế An Phú, Phòng Khám Family Medical Practice Vietnam, Bệnh Viện Quốc Tế Thảo Điền, Phòng Khám Đông Y Dược Nam An, Phòng Khám Đa Khoa Mặt Trời, Bệnh Viện Quận 2, Phòng Khám Đa Khoa Victoria Healthcare" name="description">
         <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 10 Phòng Khám Nam Khoa Quận 2 Uy Tín Hàng Đầu Cho Nam Giới","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
@@ -665,3 +665,4 @@ if (crurl.includes("https://bvdkht.vn/feedback/2995/phong-kham-nam-khoa-quan-2"
     `;
 
 }
+
