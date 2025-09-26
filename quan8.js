@@ -262,10 +262,10 @@ if (crurl.includes("https://bvdkht.vn/feedback/2988/phong-kham-da-lieu-quan-8"
             <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
             <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
 
-<script type="text/javascript" src="https://mfp.zoosnet.net/JS/LsJS.aspx?siteid=MFP16752728&float=1&lng=en"></script>
 
 </body>
 </html>
     `;
 
 }
+
