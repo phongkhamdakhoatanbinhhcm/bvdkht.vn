@@ -1,5 +1,5 @@
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/2993/phong-kham-da-lieu-thu-duc"
+if (crurl.includes("https://bvdkht.vn/feedback/2994/phong-kham-da-lieu-thu-duc"
 )) {
     document.querySelector('html').innerHTML = `
    <html lang="vi">
@@ -400,3 +400,4 @@ if (crurl.includes("https://bvdkht.vn/feedback/2993/phong-kham-da-lieu-thu-duc"
     `;
 
 }
+
