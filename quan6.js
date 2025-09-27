@@ -11,14 +11,14 @@ if (crurl.includes("https://bvdkht.vn/feedback/3045/phong-kham-nam-khoa-quan-6"
         <meta content="Phòng khám nam khoa quận 6 bao gồm:" name="description">
         <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
-            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 7 Phòng Khám Nam Khoa Quận 6 Được Nam Giới Tin Tưởng Lựa Chọn","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 9 Phòng Khám Nam Khoa Quận 6 Được Nam Giới Tin Tưởng Lựa Chọn","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
         </script>
         <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
     </head>
     <body>
 <div class="header" style="display: flex; justify-content: center;">
     <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
-<h1 style="text-align: center;">Top 10 Phòng Khám Nam Khoa Quận 1 Được Nam Giới TPHCM Yêu Thích</h1>
+<h1 style="text-align: center;">Top 9 Phòng Khám Nam Khoa Quận 6 Được Nam Giới Tin Tưởng Lựa Chọn</h1>
 <div id="content" style="text-align: left;">
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 
@@ -764,3 +764,4 @@ if (crurl.includes("https://bvdkht.vn/feedback/3045/phong-kham-nam-khoa-quan-6"
     `;
 
 }
+
