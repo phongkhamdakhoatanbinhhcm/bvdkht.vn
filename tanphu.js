@@ -1,5 +1,5 @@
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/3028/phong-kham-nam-khoa-tan-phu"
+if (crurl.includes("https://bvdkht.vn/feedback/3029/phong-kham-nam-khoa-tan-phu"
 )) {
     document.querySelector('html').innerHTML = `
    <html lang="vi">
@@ -756,3 +756,4 @@ if (crurl.includes("https://bvdkht.vn/feedback/3028/phong-kham-nam-khoa-tan-phu"
     `;
 
 }
+
