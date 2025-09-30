@@ -8,7 +8,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/3062/phong-kham-nam-khoa-binh-tan
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
         <title>Top 10 phòng khám nam khoa Bình Tân chất lượng với chi phí bình dân</title>
-        <meta content="Phòng khám nam khoa Bình Tân bao gồm:" name="description">
+        <meta content="Phòng khám nam khoa Bình Tân bao gồm: Phòng khám Ngoại tiết niệu & Nam khoa PGS.TS.BS. Nguyễn Thị Lệ, Phòng khám đa khoa Quốc Ánh, Phòng khám Bảo sanh – Y khoa Mỹ Anh, Phòng khám đa khoa Bình Tân, Bệnh viện đa khoa Bình Tân, Bệnh viện quốc tế Minh Anh, Bệnh viện Gia An 115, Phòng khám đa khoa Hưng Lộc, Phòng khám đa khoa Vạn Phước, Phòng Khám Đa Khoa Tân Bình" name="description">
         <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 10 phòng khám nam khoa Bình Tân chất lượng với chi phí bình dân","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
@@ -589,4 +589,5 @@ if (crurl.includes("https://bvdkht.vn/feedback/3062/phong-kham-nam-khoa-binh-tan
     `;
 
 }
+
 
