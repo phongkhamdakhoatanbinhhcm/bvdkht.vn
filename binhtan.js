@@ -1,5 +1,5 @@
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/3061/phong-kham-nam-khoa-binh-tan"
+if (crurl.includes("https://bvdkht.vn/feedback/3062/phong-kham-nam-khoa-binh-tan"
 )) {
     document.querySelector('html').innerHTML = `
    <html lang="vi">
@@ -589,3 +589,4 @@ if (crurl.includes("https://bvdkht.vn/feedback/3061/phong-kham-nam-khoa-binh-tan
     `;
 
 }
+
