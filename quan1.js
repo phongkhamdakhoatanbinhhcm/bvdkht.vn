@@ -1456,3 +1456,477 @@ if (crurl.includes("https://bvdkht.vn/feedback/3036/phong-kham-da-lieu-quan-1"
     `;
 
 }
+
+
+
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/3036/phong-kham-phu-khoa-quan-1"
+)) {
+    document.querySelector('html').innerHTML = `
+   <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Top 8 phòng khám phụ khoa quận 1 chị em nên lựa chọn</title>
+        <meta content="Phòng khám phụ khoa quận 1 bao gồm: Phòng khám ThS.BS Nguyễn Thị Hồng Thắm, Phòng khám BS.CK2 Nguyễn Thị Vĩnh Thành, Phòng khám PGS.TS.BS Vương Thị Ngọc Lan, Phòng khám BS.CK2 Lý Thái Lộc, Phòng khám BS. Nguyễn Việt Hùng và BS. Trần Thị Miền, Phòng khám Ts.Bs Nguyễn Thị Thanh Hà, Phòng khám BS.CK1 Tăng Quang Thái, Phòng Khám Đa Khoa Tân Bình" name="description">
+        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 8 phòng khám phụ khoa quận 1 chị em nên lựa chọn","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Top 8 phòng khám phụ khoa quận 1 chị em nên lựa chọn</h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+
+
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Các bệnh lý liên quan đến sản phụ khoa, nếu không được điều trị đúng phương pháp và triệt để, có thể gây ảnh hưởng nghiêm trọng đến khả năng sinh sản trong tương lai. Hiện nay, việc tìm kiếm bác sĩ và các phòng khám sản phụ khoa không phải là điều quá khó khăn, nhưng lựa chọn bác sĩ giỏi, có chuyên môn cao vẫn là vấn đề khiến nhiều chị em lo lắng. Để hỗ trợ, bài viết sau đây sẽ tổng hợp danh sách các bác sĩ, phòng khám phụ khoa uy tín tại quận 1, TP.HCM trong bài viết dưới đây.</span>
+</p>
+<p style="text-align:center;">
+<a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&amp;lng=en&amp;p=https://dakhoatanbinh.vn/&amp;r=&amp;rf1=&amp;rf2=&amp;cid=bf8407d2c2e943139eb1ec47a5acbfe0&amp;sid=1325b5f51f464527a804d8774497a525">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091067774f85d9944f1a3be28861e9689c12.jpg">
+</a>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>1. Phòng khám phụ khoa quận 1 - Phòng khám ThS.BS Nguyễn Thị Hồng Thắm</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Hồng Thắm hiện đang làm việc tại Bệnh viện Đại học Y Dược TP.HCM và nhận được nhiều sự yêu mến, tín nhiệm từ các chị em phụ nữ, đặc biệt là mẹ bầu, nhờ bề dày kinh nghiệm cùng danh tiếng đã được khẳng định qua nhiều năm trong nghề. Với tinh thần không ngừng học hỏi, bác sĩ luôn chú trọng nâng cao kiến thức mỗi ngày để mang lại phương pháp điều trị hiệu quả, kịp thời và triệt để.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091085dbf4b65732c4702a1d11eec4962e2d.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám ThS.BS Nguyễn Thị Hồng Thắm</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bên cạnh đó, phòng khám tư nhân của bác sĩ Thắm cũng được đánh giá cao nhờ sự đầu tư vào hệ thống thiết bị y tế hiện đại, hỗ trợ tốt cho quá trình khám và điều trị. Không gian phòng khám rộng rãi, thoáng mát đem lại cảm giác thoải mái, dễ chịu cho bệnh nhân cũng như người thân đi cùng trong mỗi lần thăm khám.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Các dịch vụ hiện có tại phòng khám:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Khám phụ khoa định kỳ.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Tầm soát ung thư cổ tử cung.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Thực hiện sinh thiết cổ tử cung.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Điều trị các bệnh viêm nhiễm cơ quan sinh dục nữ như âm đạo, cổ tử cung, tử cung, phần phụ và vùng chậu.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Giải quyết các vấn đề liên quan đến kinh nguyệt như chậm kinh, mất kinh, rong kinh,...&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Điều trị tình trạng tiểu không kiểm soát và tiểu són sau sinh.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Thăm khám thai định kỳ.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 345/5A Trần Hưng Đạo, Phường Cầu Kho, Quận 1</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Chi phí khám bệnh: 100.000 VNĐ/ lượt khám</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thứ 2 – Thứ 7: 17:30 – 20:30</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Chủ nhật: 8:00 – 12:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>2. Phòng khám phụ khoa quận 1 - Phòng khám BS.CK2 Nguyễn Thị Vĩnh Thành</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Vĩnh Thành hiện công tác tại Bệnh viện Từ Dũ, đảm nhiệm vai trò Phó khoa Khám bệnh. Sự tin tưởng của các chị em phụ nữ và mẹ bầu dành cho bác sĩ không chỉ xuất phát từ chuyên môn cao, mà còn bởi sự tận tâm và hết lòng trong việc điều trị. Bác sĩ Thành thường xuyên đưa ra những lời khuyên hữu ích về việc chăm sóc sức khỏe tại nhà, nhằm tối ưu hóa hiệu quả điều trị cho bệnh nhân.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250910ef3923b13eceac79d33e9ed412746bc2.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS.CK2 Nguyễn Thị Vĩnh Thành</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bên cạnh công việc tại bệnh viện, bác sĩ còn vận hành một phòng khám tư nhân nằm tại Quận 1. Phòng khám được trang bị thiết bị hiện đại, đáp ứng tiêu chuẩn của Bộ Y tế. Với không gian thoáng mát và khu vực để xe rộng rãi, nơi đây đem lại sự thoải mái và tiện nghi cho bệnh nhân khi đến thăm khám và chữa trị.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám cung cấp các dịch vụ chất lượng, bao gồm:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Khám và điều trị các bệnh lý phụ khoa.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Tầm soát nguy cơ ung thư.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Theo dõi và điều trị các vấn đề viêm nhiễm.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Thực hiện khám thai cùng với việc chăm sóc sức khỏe định kỳ cho thai phụ.&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ phòng khám: 125 Đề Thám, Phường Cô Giang, Quận 1</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Chi phí khám bệnh: Khám thai: 250.000 VNĐ/ lượt khám</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc:&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thứ 2 – Thứ 6: 17:30 – 21:30</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thứ 7: 8:00 – 10:30</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>3. Phòng khám phụ khoa quận 1 - Phòng khám PGS.TS.BS Vương Thị Ngọc Lan</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Ngọc Lan hiện đảm nhiệm vai trò Phó Chủ nhiệm bộ môn Phụ sản tại Đại học Y Dược TP.HCM. Với sự tận tâm và chuyên môn cao, bác sĩ đã góp phần đưa nhiều kỹ thuật hỗ trợ sinh sản tiên tiến về Việt Nam. Trọng tâm trong công việc của bác sĩ là điều trị các vấn đề về hiếm muộn và vô sinh, giúp hàng trăm cặp vợ chồng thực hiện được ước mơ trở thành cha mẹ.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250910ef3923b13eceac79d33e9ed412746bc2.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám PGS.TS.BS Vương Thị Ngọc Lan</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám Sản phụ khoa - Hiếm muộn của bác sĩ Lan, được thành lập từ năm 2005, đã xây dựng được uy tín vững chắc tại khu vực quận 1 cũng như các địa phương lân cận. Bác sĩ luôn dành thời gian học hỏi và cập nhật kiến thức mới để không ngừng nâng cao tay nghề cũng như chất lượng khám chữa bệnh tại phòng khám.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Ngoài ra, phòng khám còn được trang bị các thiết bị y tế hiện đại, hỗ trợ tối ưu trong quá trình khám và điều trị bệnh. Không gian chờ thoáng mát, rộng rãi cùng bãi đỗ xe riêng biệt là những yếu tố nổi bật mang đến sự hài lòng cho bệnh nhân khi lựa chọn dịch vụ tại đây.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 55/27 Lê Thị Hồng Gấm, Phường Nguyễn Thái Bình, Quận 1</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Chi phí khám bệnh: 150.000 VNĐ/ lượt khám</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc:&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thứ 2 – Thứ 6: 07:30 – 11:00 &amp; 13:30 – 19:00</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thứ 7: 13:30 – 19:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>4. Phòng khám phụ khoa quận 1 - Phòng khám BS.CK2 Lý Thái Lộc</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Thái Lộc hiện đang làm việc tại Bệnh viện Hùng Vương, nơi ông đã xây dựng được uy tín và sự tin tưởng từ phía bệnh nhân nhờ vào chuyên môn vững chắc. Bên cạnh nhiệm vụ tại bệnh viện, bác sĩ Lộc còn quản lý một phòng khám tư nhân tại quận 1, được đông đảo người bệnh yêu mến và lựa chọn.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091147abdfef78c7a649b95e63fe6d15dd8b.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS.CK2 Lý Thái Lộc</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám của bác sĩ thường xuyên nằm trong danh sách những địa chỉ phụ khoa đáng tin cậy tại quận 1, không chỉ bởi kỹ năng chuyên môn cao mà còn bởi hệ thống trang thiết bị hiện đại, đáp ứng các tiêu chuẩn của Bộ Y tế. Ngoài ra, bác sĩ luôn cập nhật các phương pháp chữa trị tiên tiến nhằm đảm bảo hiệu quả điều trị tối ưu cho bệnh nhân. Các chị em hoàn toàn có thể an tâm khi gửi gắm sức khỏe tại phòng khám của bác sĩ Lộc.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám hiện nay cung cấp các dịch vụ như sau:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Hỗ trợ điều trị vô sinh và hiếm muộn.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Tư vấn, chăm sóc sức khỏe thai nhi.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Khám và tư vấn về tiền sản.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Khám, hướng dẫn và điều trị các bệnh phụ khoa thông thường.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Thực hiện đặt thuốc âm đạo.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Điều trị viêm lộ tuyến cổ tử cung.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Soi tử cung và tầm soát ung thư cổ tử cung.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Đặt vòng tránh thai.&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 286/20A Trần Hưng Đạo, Phường Nguyễn Cư Trinh, Quận 1</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Chi phí khám bệnh: Đang cập nhật</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc:&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thứ 2 – Thứ 4 – Thứ 6: 17:00 – 20:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>5. Phòng khám phụ khoa quận 1 - Phòng khám BS. Nguyễn Việt Hùng và BS. Trần Thị Miền</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám có đội ngũ chuyên môn do BS.CK1 Nguyễn Việt Hùng và BS. Trần Thị Miền đảm trách, luôn nhận được sự tin tưởng và yêu mến từ các chị em phụ nữ, đặc biệt là mẹ bầu, nhờ vào tay nghề vững vàng và kiến thức chuyên sâu. Đội ngũ bác sĩ tại đây luôn tận tâm, cung cấp những lời khuyên hữu ích về cách chăm sóc, theo dõi sức khỏe tại nhà, nhằm đảm bảo mang lại kết quả điều trị tốt nhất cho bệnh nhân.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250911ca2adda5120a325f3804af6f57ae66d5.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS. Nguyễn Việt Hùng và BS. Trần Thị Miền</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bên cạnh đó, phòng khám còn tạo được uy tín nhờ trang thiết bị y tế hiện đại, đầy đủ, kết hợp với không gian phòng khám và khu vực chờ sạch sẽ, thoáng mát. Đây chính là một địa chỉ đáng tin cậy để chị em yên tâm thăm khám, điều trị và chăm sóc sức khỏe bản thân.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Các dịch vụ chính:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Phẫu thuật cắt tử cung và vá màng trinh.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Tầm soát, phẫu thuật u xơ và ung thư tử cung.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Thực hiện các ca phẫu thuật sản phụ khoa.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Xét nghiệm chuyên sâu về phụ khoa.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Tiêm ngừa ung thư cổ tử cung.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Thủ thuật đốt điện cổ tử cung.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Chăm sóc toàn diện cho mẹ và bé sau sinh.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">- Tư vấn và hỗ trợ sinh sản.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 3/1 Nguyễn Văn Thủ, Phường Đakao, Quận 1</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Chi phí khám bệnh:&nbsp; Chi phí phụ thuộc vào tình trạng bệnh và các dịch vụ đi kèm</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thứ 2 – Thứ 6: 16:30 – 19:30</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thứ 7: 08:00 – 10:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>6. Phòng khám phụ khoa quận 1 - Phòng khám Ts.Bs Nguyễn Thị Thanh Hà</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Thanh Hà được biết đến như một chuyên gia hàng đầu trong lĩnh vực Sản phụ khoa, nổi tiếng với sự uy tín và tay nghề cao. Với nhiều năm cống hiến trong nghề, bác sĩ đã tạo dựng niềm tin nơi đông đảo bệnh nhân nhờ vào kinh nghiệm phong phú và sự tận tâm trong công việc.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hiện tại, bác sĩ Hà đảm nhiệm các vị trí quan trọng như Nguyên Giám đốc Y khoa tại Bệnh viện Phụ sản MeKong TPHCM, Cố vấn cao cấp về Sản phụ khoa tại Bệnh viện Hạnh Phúc và là giảng viên sau đại học tại Bộ môn Phụ sản, Đại học Y Dược TP.HCM.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_202509114292b5f9b92baf4b2fe4b9a27a7e06ff.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám Ts.Bs Nguyễn Thị Thanh Hà</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Không chỉ tích cực trong công tác chuyên môn, bác sĩ còn có nhiều đóng góp quan trọng vào hoạt động nghiên cứu khoa học. Những công trình nghiên cứu cùng giáo trình, sách và tài liệu do bác sĩ biên soạn đã trở thành nguồn tham khảo giá trị cho ngành y tế. Ngoài ra, bác sĩ Hà cũng điều hành một phòng khám ngoài giờ tại quận 1. Nơi đây được đánh giá cao nhờ hệ thống trang thiết bị hiện đại, không gian rộng rãi, thoáng mát cùng đội ngũ vận hành chuyên nghiệp mang lại trải nghiệm nhanh chóng và hiệu quả cho bệnh nhân.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 30/12 Đường Phó Đức Chính, Phường Nguyễn Thái Bình, Quận 1</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Chi phí khám bệnh: 200.000đ – 300.000 VNĐ/ lượt khám</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thứ 2 – Thứ 5: 18:30 – 21:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>7. Phòng khám phụ khoa quận 1 - Phòng khám BS.CK1 Tăng Quang Thái</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Tăng Quang Thái sở hữu hơn 12 năm kinh nghiệm trong lĩnh vực sản phụ khoa và điều trị hiếm muộn. Ông là tác giả của hơn 15 công trình nghiên cứu khoa học đăng trên các tạp chí chuyên ngành, tập trung vào các chủ đề như hiếm muộn, thai kỳ nguy cơ cao và rối loạn nội tiết. Bác sĩ đã từng báo cáo tại nhiều hội nghị khoa học trong nước và quốc tế, đồng thời hoàn thành các khóa tu nghiệp tại Áo, Singapore và Hong Kong. Trước đây, ông đã từng làm việc tại nhiều bệnh viện chuyên khoa danh tiếng như Bệnh viện Hùng Vương, Bệnh viện Phụ sản Nhi Bình Dương, và Hệ thống IVF Mỹ Đức.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250911334ee8c8d8be0a94f2c1bdddc360a7c6.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS.CK1 Tăng Quang Thái</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Ngoài giờ làm việc tại Bệnh viện Quốc Tế Mỹ, bác sĩ Thái còn dành thời gian mở phòng khám tư dành cho những bệnh nhân bận rộn không thể đến bệnh viện trong giờ hành chính. Phòng khám được trang bị máy móc hiện đại đạt chuẩn Bộ Y tế, với không gian rộng rãi và thoải mái nhằm đảm bảo trải nghiệm tốt nhất cho bệnh nhân.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 81B Bùi Thị Xuân, Phường Phạm Ngũ Lão, Quận 1</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Chi phí khám bệnh: Đang cập nhật</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thứ 3, 5: 17:00 – 19:00</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thứ 7: 8:00 – 17:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>8. Phòng khám phụ khoa quận 1 - Phòng Khám Đa Khoa Tân Bình</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thấu hiểu nhu cầu khám chữa bệnh ngày càng tăng của cộng đồng,&nbsp;</span>
+<a href="https://m.dakhoatanbinh.vn/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> không ngừng nỗ lực mang đến dịch vụ y tế chất lượng, đáp ứng mọi tiêu chí về sự uy tín và chuyên nghiệp. Với mục tiêu xây dựng một môi trường khám chữa bệnh thân thiện, đạt tiêu chuẩn của Bộ Y tế, phòng khám đem lại các giải pháp y tế tối ưu với chi phí phù hợp, giúp bệnh nhân an tâm gửi gắm sức khỏe.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_202509228f6ce302e820e7aacef6ae31b7326bb8.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng Khám Đa Khoa Tân Bình là địa chỉ khám chữa bệnh an toàn chất lượng</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Sở hữu đội ngũ bác sĩ giàu kinh nghiệm, hệ thống thiết bị hiện đại cùng quy trình thăm khám nhanh chóng, phòng khám tự hào là địa chỉ tin cậy để mỗi người bệnh an tâm chăm sóc sức khỏe. Các hoạt động khám chữa, xét nghiệm và điều trị tại đây được giám sát chặt chẽ nhằm đảm bảo tuân thủ nghiêm ngặt quy trình y khoa, mang đến trải nghiệm chu đáo và chuyên nghiệp cho bệnh nhân.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám luôn chú trọng đầu tư hệ thống máy móc tiên tiến nhằm hỗ trợ phát hiện sớm các vấn đề sức khỏe và tăng hiệu quả điều trị, đồng thời giảm nguy cơ biến chứng. Ngoài ra, thủ tục thăm khám được đơn giản hóa tối đa, giúp bệnh nhân tiết kiệm thời gian và tránh những quy trình phức tạp. Không gian phòng khám được thiết kế thân thiện, thoải mái, tạo cảm giác an tâm, đồng thời có đội ngũ chuyên viên tận tình hỗ trợ và hướng dẫn trong suốt quá trình điều trị.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bên cạnh năng lực chuyên môn cao, các bác sĩ tại phòng khám còn rất thấu hiểu tâm lý bệnh nhân, tạo sự thoải mái trong mỗi lần thăm khám. Với phương châm “Tiết kiệm thời gian - Nâng cao hiệu quả”, quy trình khám chữa bệnh được tối ưu hóa để phục vụ nhanh gọn, từ khâu đăng ký đến khi nhận kết quả, bệnh nhân không phải mất thời gian chờ đợi.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025092249c20ec42e12bf365dac34ff134e9d61.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Ưu điểm y tế chất lượng tại Phòng Khám Đa Khoa Tân Bình</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám đặc biệt coi trọng việc bảo mật thông tin cá nhân và hồ sơ bệnh án của bệnh nhân. Mô hình "1 bác sĩ - 1 bệnh nhân" không chỉ đảm bảo sự riêng tư mà còn giúp bác sĩ theo dõi sát sao tình trạng sức khỏe cụ thể của từng người, tạo điều kiện để bệnh nhân thoải mái trao đổi chi tiết về mọi vấn đề y khoa.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Chi phí tại phòng khám đều được niêm yết minh bạch, đảm bảo không phát sinh phụ phí ngoài dự kiến. Trước khi bắt đầu bất kỳ phương pháp điều trị nào, các bác sĩ sẽ tư vấn kỹ càng để bệnh nhân có thể chọn lựa hình thức phù hợp với nhu cầu và khả năng tài chính.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Ngoài ra, phòng khám hỗ trợ tư vấn miễn phí qua tổng đài hoạt động 24/24. Chỉ cần liên hệ hotline 0282.206.3333, đội ngũ chuyên viên sẵn sàng giải đáp mọi thắc mắc và hỗ trợ đặt lịch hẹn nhanh chóng. Đăng ký ngay hôm nay để nhận các quyền lợi đặc biệt như ưu tiên khám không cần chờ đợi hoặc lựa chọn khung giờ phù hợp cùng bác sĩ chuyên khoa trực tiếp thăm khám.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thông tin liên hệ</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 495 Cộng Hòa, Phường 15, Quận Tân Bình, TP. HCM</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hotline: 0282.206.3333 - tư vấn miễn phí 24/24</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Website:&nbsp;</span>
+<a href="https://dakhoatanbinh.vn">
+<span style="background-color:transparent;color:#1155cc;">
+<u>https://dakhoatanbinh.vn</u>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian hoạt động: 08:00 - 20:00 (kể cả Chủ nhật và lễ, tết)</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bài viết chia sẻ thông tin về những phòng khám phụ khoa uy tín tại quận 1, TP.HCM, hy vọng sẽ là nguồn tham khảo hữu ích dành cho chị em phụ nữ và các mẹ bầu đang tìm kiếm dịch vụ thăm khám chất lượng.</span>
+</p>
+<p style="text-align:center;">
+<a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&amp;lng=en&amp;p=https://dakhoatanbinh.vn/&amp;r=&amp;rf1=&amp;rf2=&amp;cid=bf8407d2c2e943139eb1ec47a5acbfe0&amp;sid=1325b5f51f464527a804d8774497a525">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091067774f85d9944f1a3be28861e9689c12.jpg">
+</a>
+</p>
+<p>&nbsp;</p>
+<p>
+<span style="background-color:transparent;color:#000000;">
+<strong>Xem thêm:&nbsp;</strong>
+</span>
+<a href="https://dakhoatanbinh.vn/dia-chi-xet-nghiem-phu-khoa-uy-tin-nhanh-chong-va-chinh-xac-4787.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Địa chỉ xét nghiệm phụ khoa uy tín - Nhanh chóng và chính xác</u>
+</strong>
+</span>
+</a>
+</p>
+
+
+
+   <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+
+</body>
+</html>
+    `;
+
+}
+
