@@ -764,7 +764,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/3045/phong-kham-nam-khoa-quan-6"
 
 
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/2993/phong-kham-phu-khoa-quan-6"
+if (crurl.includes("https://bvdkht.vn/feedback/3045/phong-kham-phu-khoa-quan-6"
 )) {
     document.querySelector('html').innerHTML = `
    <html lang="vi">
@@ -1203,4 +1203,5 @@ if (crurl.includes("https://bvdkht.vn/feedback/2993/phong-kham-phu-khoa-quan-6"
     `;
 
 }
+
 
