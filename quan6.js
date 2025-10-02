@@ -748,7 +748,446 @@ if (crurl.includes("https://bvdkht.vn/feedback/3045/phong-kham-nam-khoa-quan-6"
 
 
 
+   <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
 
+</body>
+</html>
+    `;
+
+}
+
+
+
+
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/2993/phong-kham-phu-khoa-quan-6"
+)) {
+    document.querySelector('html').innerHTML = `
+   <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Top 5 phòng khám phụ khoa quận 6 uy tín cùng thông tin hữu ích</title>
+        <meta content="Phòng khám phụ khoa quận 6 bao gồm: Phòng khám TS.BS. Lê Thị Thu Hà, Phòng khám ThS.BS. Hồ Quang Nhật, Phòng khám ThS.BS.CKI. Phan Nguyễn Hoàng Vân, Phòng khám BS.CKII. Nguyễn Thị Bạch Nga, Phòng khám BS.CKII. Nguyễn Thị Kim Anh, Phòng khám sản phụ khoa Happy Mommy, Phòng Khám Đa Khoa Tân Bình" name="description">
+        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 5 phòng khám phụ khoa quận 6 uy tín cùng thông tin hữu ích","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Top 5 phòng khám phụ khoa quận 6 uy tín cùng thông tin hữu ích</h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+
+
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Khám thai và chăm sóc sức khỏe sinh sản đóng vai trò quan trọng đối với chị em phụ nữ. Tuy nhiên, giữa vô số phòng khám sản phụ khoa tại TP.HCM, việc chọn một địa chỉ uy tín và chất lượng lại là thách thức không nhỏ. Hiểu được nỗi băn khoăn này, bài viết sau đây sẽ giới thiệu danh sách 6 phòng khám phụ khoa đáng tin cậy tại quận 6, giúp chị em dễ dàng tham khảo và lựa chọn.</span>
+</p>
+<p style="text-align:center;">
+<a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&amp;lng=en&amp;p=https://dakhoatanbinh.vn/">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091067774f85d9944f1a3be28861e9689c12.jpg">
+</a>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>1. Phòng khám phụ khoa quận 6 - Phòng khám TS.BS. Lê Thị Thu Hà</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Đứng đầu danh sách các phòng khám sản phụ khoa uy tín tại quận 6 phải kể đến phòng khám của Tiến sĩ – Bác sĩ Lê Thị Thu Hà.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Tiến sĩ, bác sĩ Lê Thị Thu Hà là một chuyên gia có tiếng trong lĩnh vực sản phụ khoa, từng giữ vị trí Trưởng khoa Khám bệnh tại Bệnh viện Từ Dũ. Với trình độ chuyên môn cao và kinh nghiệm phong phú trong việc khám và điều trị các bệnh lý sản phụ khoa, bác sĩ Thu Hà luôn mang lại sự tin tưởng và yên tâm cho các chị em khi đến khám.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="https://i.imgur.com/6blvTP2.png">
+</u>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám của bác sĩ Lê Thị Thu Hà cung cấp nhiều dịch vụ chất lượng, bao gồm khám sản phụ khoa, khám thai, tầm soát nguy cơ ung thư cổ tử cung và ung thư vú, siêu âm thai, siêu âm phụ khoa, siêu âm đo độ mờ da gáy,… cùng nhiều dịch vụ khác trong lĩnh vực sản phụ khoa.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 905A Hồng Bàng, Phường 9, Quận 6, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Bảy: 16:30 – 21:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>2. Phòng khám phụ khoa quận 6 - Phòng khám ThS.BS. Hồ Quang Nhật</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thạc sĩ – Bác sĩ Hồ Quang Nhật hiện đang làm việc tại bệnh viện Từ Dũ, chuyên về Sản phụ khoa, Siêu âm và Hiếm muộn. Ông là một bác sĩ giàu kinh nghiệm, đồng thời còn được biết đến với tính cách vui vẻ, gần gũi, tạo cảm giác thoải mái cho bệnh nhân. Với chuyên môn vững vàng, bác sĩ Nhật đã hỗ trợ nhiều sản phụ vượt qua hành trình "mẹ tròn con vuông" một cách an toàn.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="https://i.imgur.com/xxUf0Qh.png">
+</u>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám Sản phụ khoa và Siêu âm PaPa MaMa do ThS.BS. Hồ Quang Nhật trực tiếp phụ trách là một địa chỉ uy tín tại Quận 6. Phòng khám cung cấp đa dạng dịch vụ như khám thai, khám phụ khoa, tư vấn và điều trị hiếm muộn, khám ngực, siêu âm 5D, siêu âm màu và 4 chiều. Ngoài ra, nơi đây còn thực hiện các dịch vụ chẩn đoán tiền sản, tầm soát dị tật thai nhi, xét nghiệm máu, chọc ối, tiêm ngừa,… đáp ứng nhu cầu chăm sóc sức khỏe toàn diện của bệnh nhân.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 92E Hậu Giang, Phường 6, Quận 6, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Sáu: 17:00 – 21:00; Thứ Bảy: 08:00 – 12:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>3. Phòng khám phụ khoa quận 6 - Phòng khám ThS.BS.CKI. Phan Nguyễn Hoàng Vân</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ chuyên khoa I Phan Nguyễn Hoàng Vân hiện là bác sĩ chuyên ngành sản tại Bệnh viện Hùng Vương. Trước đây, bà từng đảm nhiệm vai trò giảng viên chuyên ngành Sản phụ khoa tại Đại học Y Dược TP.HCM. Phòng khám Sản phụ khoa Hoàng Vân – ThS.BS.CKI. Phan Nguyễn Hoàng Vân tập trung vào điều trị các bệnh lý phụ khoa, vấn đề hiếm muộn, siêu âm, khám thai định kỳ và tầm soát ung thư.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="https://i.imgur.com/MQa6UHI.png">
+</u>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Tốt nghiệp từ Đại học Y Dược TP.HCM, bác sĩ Phan Nguyễn Hoàng Vân đã tích lũy nhiều năm kinh nghiệm trong lĩnh vực khám chữa bệnh sản phụ khoa. Với chuyên môn vững vàng cùng sự tận tâm trong công việc, bà luôn nhận được sự tin tưởng và hài lòng từ nhiều bệnh nhân nữ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 109 Bình Phú, Phường 11, Quận 6, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Bảy: 17:00 – 20:30</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>4. Phòng khám phụ khoa quận 6 - Phòng khám BS.CKII. Nguyễn Thị Bạch Nga</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Nguyễn Thị Bạch Nga từng giữ chức vụ Phó Giám đốc Bệnh viện Hùng Vương và là chuyên gia có trình độ cao trong lĩnh vực khám và điều trị các bệnh sản phụ khoa dành cho phụ nữ. Khi đến Phòng khám Sản phụ khoa – BS.CKII. Nguyễn Thị Bạch Nga, chị em sẽ cảm nhận được sự an tâm nhờ vào chuyên môn xuất sắc của bác sĩ Bạch Nga, đồng thời được hỗ trợ bởi sự thấu hiểu sâu sắc tâm lý của bác dành cho người bệnh.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="https://i.imgur.com/nnnv115.png">
+</u>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 69 Kinh Dương Vương, Phường 12, Quận 6, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Bảy: 19:00 – 21:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>5. Phòng khám phụ khoa quận 6 - Phòng khám BS.CKII. Nguyễn Thị Kim Anh</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám Sản phụ khoa &amp; Siêu âm – BS.CKII. Nguyễn Thị Kim Anh là một địa chỉ đáng tin cậy trong lĩnh vực chăm sóc sức khỏe Sản phụ khoa tại Hồ Chí Minh và các khu vực lân cận.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Nguyễn Thị Kim Anh, với hàng chục năm kinh nghiệm chuyên môn, đạt trình độ Chuyên khoa II, hiện đang công tác tại bệnh viện Hùng Vương. Bác sĩ luôn tận tâm mang đến những chẩn đoán chính xác và phương pháp điều trị tối ưu, đáp ứng nhu cầu chăm sóc sức khỏe của chị em.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="https://i.imgur.com/T39u3sh.png">
+</u>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám được trang bị hệ thống siêu âm tiên tiến cùng cơ sở vật chất hiện đại, sạch sẽ, đạt tiêu chuẩn chất lượng. Đây là nơi lý tưởng để các thai phụ và chị em phụ nữ cảm thấy yên tâm, hài lòng khi thăm khám và điều trị sức khỏe.&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 255 Cao Văn Lầu, Phường 2, Quận 6, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Bảy: 17:00 – 20:30</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>6. Phòng khám phụ khoa quận 6 - Phòng khám sản phụ khoa Happy Mommy</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Happy Mommy là một phòng khám sản phụ khoa đáng tin cậy tại TP.HCM. Tại đây, các bác sĩ giàu kinh nghiệm đến từ những bệnh viện danh tiếng như Bệnh viện Đại học Y Dược, Từ Dũ, Gia Định và Vinmec trực tiếp thực hiện thăm khám và điều trị. Phòng khám được dẫn dắt bởi bác sĩ Nguyễn Thị Hồng Thắm từ Bệnh viện Đại học Y Dược, người đảm nhiệm vai trò chuyên môn&nbsp; chính.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="https://i.imgur.com/hYTobWw.png">
+</u>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Ngoài việc sở hữu đội ngũ y bác sĩ dày dặn kinh nghiệm trong lĩnh vực y tế, đặc biệt là chuyên môn về phụ sản, Happy Mommy còn đầu tư vào hệ thống cơ sở vật chất và trang thiết bị y khoa hiện đại, đáp ứng những tiêu chuẩn cao như: Máy siêu âm 2D, 3D, 4D, 5D, hệ thống máy xét nghiệm máu, sinh hóa và nước tiểu,..</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>7. Phòng khám phụ khoa quận 6 - Phòng Khám Đa Khoa Tân Bình</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<a href="https://dakhoatanbinh.vn/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> nằm tại số 495 Cộng Hòa, Phường 15, Quận Tân Bình, TP.HCM, nổi bật với chất lượng dịch vụ y tế đáng tin cậy cùng đội ngũ bác sĩ giàu kinh nghiệm, tận tâm và chuyên môn cao.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Luôn lấy sức khỏe của bệnh nhân làm ưu tiên hàng đầu, các bác sĩ tại phòng khám liên tục trau dồi kỹ năng, cập nhật các phương pháp điều trị hiện đại để đảm bảo hiệu quả tối ưu nhất.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Sự hài hòa giữa chuyên môn cao và đạo đức nghề y tại Phòng Khám Đa Khoa Tân Bình&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<a href="https://m.phongkhamdakhoatanbinh.vn/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> là cơ sở y tế uy tín, được cấp phép hoạt động bởi Sở Y tế và luôn tuân thủ nghiêm ngặt các quy định trong lĩnh vực chăm sóc sức khỏe cộng đồng. Tự hào đáp ứng đầy đủ các tiêu chuẩn y tế hiện đại, phòng khám đã trở thành một điểm đến đáng tin cậy, phục vụ tốt nhất cho nhu cầu khám chữa bệnh của người dân.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Nét nổi bật của phòng khám chính là đội ngũ y bác sĩ giàu kinh nghiệm, tận tâm, luôn đặt lợi ích và sức khỏe người bệnh lên hàng đầu. Trong đó, một số các bác sĩ tiêu biểu đã góp phần củng cố danh tiếng của&nbsp;</span>
+<a href="https://www.vietpharmatech.vn/Uploads/files/top-10-phong-kham-da-khoa-tan-binh-chat-luong-nhat.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;">.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Bác sĩ Nguyễn Thị Vân – Chuyên gia hàng đầu trong lĩnh vực sản phụ khoa</strong>
+</span>
+<span style="background-color:transparent;color:#000000;">&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Với hơn 15 năm kinh nghiệm trong ngành sản phụ khoa, bác sĩ Nguyễn Thị Vân gây ấn tượng không chỉ với kiến thức chuyên sâu mà còn với sự tận tình trong từng ca bệnh. Tại&nbsp;</span>
+<a href="https://www.vietpharmatech.vn/Uploads/files/top-10-phong-kham-da-khoa-tan-binh-chat-luong-nhat.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;">, bác sĩ trực tiếp thăm khám và điều trị những bệnh lý phổ biến như viêm nhiễm âm đạo, rối loạn kinh nguyệt, cùng nhiều vấn đề liên quan đến sức khỏe sinh sản.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="https://i.imgur.com/33wUhP2.png">
+</u>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Điều đặc biệt ở bác sĩ Nguyễn Thị Vân là sự đồng hành chặt chẽ với bệnh nhân. Không chỉ tập trung vào quá trình khám chữa bệnh một cách hiệu quả, bác sĩ còn không ngừng lắng nghe và chia sẻ, giúp chị em phụ nữ giảm bớt lo âu, nắm rõ tình trạng của mình. Từ đó, mỗi lần thăm khám đều mang lại cảm giác thoải mái và yên tâm tuyệt đối.&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Bác sĩ Đỗ Thị Liên – Người mang đến sự an tâm về sức khỏe sinh sản</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Đỗ Thị Liên là một chuyên gia đáng tin cậy trong lĩnh vực sức khỏe sinh sản, đem đến sự an tâm cho bệnh nhân tại Phòng Khám Đa Khoa Tân Bình. Với hơn 10 năm kinh nghiệm, bà không chỉ nổi bật nhờ chuyên môn vững chắc mà còn bởi phong cách làm việc chuyên nghiệp, tỉ mỉ và luôn đặt lợi ích của bệnh nhân lên hàng đầu.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="https://i.imgur.com/Y1pTtt2.png">
+</u>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Chuyên môn của bác sĩ Đỗ Thị Liên bao gồm khám chữa các vấn đề về phụ khoa, điều trị bệnh lý liên quan đến sức khỏe sinh sản, siêu âm thai và tư vấn kế hoạch hóa gia đình. Nhờ áp dụng hệ thống siêu âm hiện đại, bà có thể theo dõi thai kỳ ở giai đoạn sớm, phát hiện bất thường và cung cấp các thông tin chi tiết để thai phụ cảm thấy yên tâm hơn. Bên cạnh đó, bác sĩ cũng đồng hành cùng bệnh nhân trong việc lựa chọn phương án kế hoạch hóa gia đình phù hợp và an toàn, mang lại sự hỗ trợ toàn diện với thái độ tận tình và chuyên sâu.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Bác sĩ Lê Văn Phán – Chuyên gia hàng đầu trong lĩnh vực điều trị bệnh lý ngoại khoa</strong>
+</span>
+<span style="background-color:transparent;color:#000000;">&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Tại&nbsp;</span>
+<a href="https://thanhnien.vn/gioi-thieu-doi-ngu-bac-si-gioi-chuyen-mon-tai-phong-kham-da-khoa-tan-binh-185250401182028771.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;">, nhắc đến các ca bệnh ngoại khoa phức tạp, không thể bỏ qua tên tuổi của bác sĩ Lê Văn Phán. Với bề dày kinh nghiệm trong lĩnh vực này, bác sĩ Phán đã thực hiện hàng loạt ca phẫu thuật thành công, từ những ca đơn giản đến các trường hợp khó khăn hơn, góp phần quan trọng vào việc hồi phục sức khỏe cho nhiều bệnh nhân.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="https://i.imgur.com/rAFIix9.png">
+</u>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Điểm đặc biệt của bác sĩ Phán chính là phong cách làm việc điềm đạm, chuyên nghiệp và hết sức tận tâm. Ông không chỉ sở hữu khả năng chẩn đoán chuẩn xác mà còn thông thạo các phương pháp điều trị tiên tiến nhất hiện nay. Hơn thế nữa, bác sĩ luôn dành thời gian giải thích cặn kẽ tiến trình điều trị, nhằm giúp bệnh nhân hiểu rõ tình trạng sức khỏe của mình và đồng hành với sự an tâm trong quá trình chữa trị.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Bác sĩ Lê Hữu Lộc – chuyên gia ngoại khoa tận tâm với nhiều năm kinh nghiệm</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Lê Hữu Lộc là người giàu kiến thức và kinh nghiệm trong lĩnh vực ngoại khoa, đặc biệt là trong việc điều trị các bệnh lý ngoại khoa phức tạp. Không ngừng học hỏi và áp dụng các kỹ thuật phẫu thuật tiên tiến, bác sĩ luôn hướng tới mục tiêu nâng cao hiệu quả điều trị để đem lại kết quả tốt nhất cho bệnh nhân.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="https://i.imgur.com/Cbmqdts.png">
+</u>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hiện tại, công việc của bác sĩ Lộc tập trung tại&nbsp;</span>
+<a href="https://congly.vn/phong-kham-da-khoa-tan-binh-495-cong-hoa-phong-kham-benh-xa-hoi-tphcm-427721.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;">, nơi ông đảm nhận các ca phẫu thuật ngoại khoa với tiêu chí đặt lợi ích và sự an toàn của bệnh nhân lên hàng đầu. Phương pháp điều trị do bác sĩ thực hiện không chỉ giảm thiểu đau đớn mà còn giúp người bệnh mau chóng hồi phục. Từ sự tận tụy và kỹ năng chuyên môn xuất sắc, ông đã gây dựng được lòng tin và tình cảm từ đông đảo bệnh nhân.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Dịch vụ y tế chuyên nghiệp Phòng Khám Đa Khoa Tân Bình</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bên cạnh các y bác sĩ tiêu biểu,&nbsp;</span>
+<a href="https://bvtwhue.com.vn/upload/files/909160325.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> còn có đội ngũ bác sĩ giàu kinh nghiệm trong nhiều chuyên khoa khác nhau. Tất cả đều làm việc với chung một mục tiêu: mang đến dịch vụ y tế tốt, toàn diện và nhân văn.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Ngoài ra,&nbsp;</span>
+<a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-da-khoa-tan-binh-luon-dat-suc-khoe-benh-nhan-len-tren-het_176156.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> cũng không ngừng nâng cấp cơ sở vật chất, đầu tư trang thiết bị y tế hiện đại và áp dụng những phương pháp điều trị tiên tiến, giúp chẩn đoán chính xác và rút ngắn thời gian điều trị.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Dịch vụ chăm sóc sức khỏe chuyên nghiệp tại&nbsp;</span>
+<a href="https://thanhnien.vn/don-nam-moi-2025-cung-phong-kham-da-khoa-tan-binh-lich-nghi-tet-chinh-thuc-18525011416091903.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> mang đến sự hài lòng và tin tưởng cho mọi bệnh nhân. Phòng khám cung cấp một loạt các dịch vụ y tế chuyên sâu với mức chi phí được niêm yết công khai và minh bạch, phù hợp với nhu cầu của nhiều đối tượng. Đồng thời, mọi thông tin cá nhân và hồ sơ bệnh án đều được bảo mật nghiêm ngặt, đảm bảo sự riêng tư tối đa.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#1155cc;">
+<u>
+<img src="https://i.imgur.com/jyRPWkl.png">
+</u>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám còn nổi bật với dịch vụ đặt hẹn khám trước cùng các chương trình tư vấn sức khỏe miễn phí qua tổng đài hoặc trực tuyến. Nhờ đó, người bệnh có thể thoải mái chọn thời gian phù hợp, giảm thiểu thời gian chờ đợi và nhận được sự hỗ trợ nhiệt tình từ đội ngũ bác sĩ giàu kinh nghiệm.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Với phương châm "Sức khỏe của bạn là ưu tiên hàng đầu",&nbsp;</span>
+<a href="https://uuviet.ecollect.vn/public/media/files/ecollect/6430526.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> xứng đáng là nơi để bệnh nhân gửi gắm niềm tin và sức khỏe. Hãy để các bác sĩ tại đây đồng hành cùng bạn trên con đường chăm sóc sức khỏe toàn diện!</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng Khám Đa Khoa Tân Bình</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 495 Cộng Hòa, Phường 15, Quận Tân Bình</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hotline: 0282.206.3333 - tư vấn miễn phí 24/24</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Website:&nbsp;</span>
+<a href="https://dakhoatanbinh.vn">
+<span style="background-color:transparent;color:#1155cc;">
+<u>https://dakhoatanbinh.vn</u>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;">;&nbsp;</span>
+<a href="https://phongkhamdakhoatanbinh.vn">
+<span style="background-color:transparent;color:#1155cc;">
+<u>https://phongkhamdakhoatanbinh.vn</u>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian hoạt động: 08:00 - 20:00 (Kể cả Chủ Nhật và ngày Lễ)</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">GPHĐ số 07329/HCM-GPHĐ ký ngày 18/11/2022</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bài viết trên đây đã cung cấp đến các chị em danh sách các phòng khám sản phụ khoa uy tín tại quận 6, giúp chị em có thêm thông tin để cân nhắc trước khi lựa chọn địa điểm thăm khám. Hy vọng rằng các chị em sẽ tìm được phòng khám phù hợp và chất lượng nhất cho mình.</span>
+</p>
+<p style="text-align:center;">
+<a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&amp;lng=en&amp;p=https://dakhoatanbinh.vn/">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091067774f85d9944f1a3be28861e9689c12.jpg">
+</a>
+</p>
+<p>
+<span style="background-color:transparent;color:#000000;">
+<strong>Xem thêm:&nbsp;</strong>
+</span>
+<a href="https://dakhoatanbinh.vn/gioi-thieu-dia-chi-co-bac-si-phu-khoa-nu-gioi-tan-tam-tai-tphcm-5668.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Giới thiệu địa chỉ có bác sĩ phụ khoa nữ giỏi, tận tâm tại TPHCM</u>
+</strong>
+</span>
+</a>
+</p>
 
 
 
