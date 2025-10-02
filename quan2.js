@@ -1109,3 +1109,351 @@ if (crurl.includes("https://bvdkht.vn/feedback/2995/phong-kham-da-lieu-quan-2"
     `;
 
 }
+
+
+
+
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/2995/phong-kham-phu-khoa-quan-2"
+)) {
+    document.querySelector('html').innerHTML = `
+   <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Top 6 phòng khám phụ khoa quận 2 thăm khám và điều trị ngoài giờ</title>
+        <meta content="Phòng khám phụ khoa quận 2 bao gồm: Phòng khám BS.CKI. Phan Văn Già Chuồn, Phòng khám BS. Trương Diễm Phượng, Phòng khám BS. Nguyễn Thị Hồng Nhung, Phòng khám BS.CKI. Hoàng Thị Thủy, Phòng khám BS. Lê Thị Bích Hường, Phòng Khám Đa Khoa Tân Bình" name="description">
+        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 6 phòng khám phụ khoa quận 2 thăm khám và điều trị ngoài giờ","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Top 6 phòng khám phụ khoa quận 2 thăm khám và điều trị ngoài giờ</h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+
+
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Ở khu vực quận 2 có rất nhiều phòng khám sản phụ khoa, vậy đâu là những phòng khám sản phụ khoa uy tín? Bài viết dưới đây sẽ tổng hợp 5 phòng khám sản phụ khoa uy tín ở quận 2 . Đây là những phòng khám sản phụ khoa ngoài giờ tphcm uy tín và tốt nhất. Khám sản phụ khoa là một trong những dịch vụ khám được quan tâm nhiều nhất hiện nay đối với chị em phụ nữ. Hãy cùng tìm hiểu nhé.</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#134f5c;">
+<strong>1. Phòng khám phụ khoa quận 2 - Phòng khám BS.CKI. Phan Văn Già Chuồn</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ chuyên khoa Sản phụ khoa Phan Văn Già Chuồn là một người dày dặn kinh nghiệm trong việc khám chữa bệnh và chăm sóc sức khỏe thai sản. Hiện tại, bác sĩ đang công tác tại Bệnh viện Từ Dũ và phòng khám Sản phụ khoa – Siêu âm Quỳnh Trâm. Với trình độ chuyên môn vững vàng cùng sự tận tâm, chu đáo, luôn hết lòng vì bệnh nhân, bác sĩ Chuồn nhận được nhiều sự tin tưởng và yêu mến từ các bệnh nhân. Nếu cần tư vấn về chế độ dinh dưỡng hoặc khám thai, bệnh nhân có thể hoàn toàn an tâm khi đến gặp bác sĩ Chuồn.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091085dbf4b65732c4702a1d11eec4962e2d.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS.CKI. Phan Văn Già Chuồn</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 116 Lê Văn Thịnh, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thứ Hai – Thứ Sáu: 16:30 – 20:00</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thứ Bảy – Chủ Nhật: 07:30 – 12:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#134f5c;">
+<strong>2. Phòng khám phụ khoa quận 2 - Phòng khám BS. Trương Diễm Phượng</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Trương Diễm Phượng hiện công tác tại Bệnh viện Từ Dũ, sở hữu chuyên môn vững vàng cùng nhiều năm kinh nghiệm trong việc khám và điều trị các bệnh lý liên quan đến sản phụ khoa. Với phong cách làm việc cẩn thận, bác sĩ Phượng luôn chú trọng tư vấn cho bệnh nhân một cách rõ ràng, dễ hiểu và đầy thân thiện.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250910ef3923b13eceac79d33e9ed412746bc2.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS. Trương Diễm Phượng</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 5 Đường 12, Khu phố 1, Phường Cát Lái, Quận 2, Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Chủ Nhật: 17:00 – 20:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#134f5c;">
+<strong>3. Phòng khám phụ khoa quận 2 - Phòng khám BS. Nguyễn Thị Hồng Nhung</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Nguyễn Thị Hồng Nhung là một chuyên gia có tay nghề vững vàng trong lĩnh vực Sản phụ khoa và hiện đang công tác tại Bệnh viện Hùng Vương. Với kỹ năng chẩn đoán và điều trị các bệnh lý liên quan đến sản phụ khoa, cùng khả năng tạo sự gần gũi và thấu hiểu tâm lý, bác sĩ Hồng Nhung luôn mang lại cảm giác an tâm cho các chị em phụ nữ.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091087c8216ad906ce2b236b750aa9a672f2.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS. Nguyễn Thị Hồng Nhung</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 76 Đường 46, KP4, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Bảy: 17:30 – 19:30</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#134f5c;">
+<strong>4. Phòng khám phụ khoa quận 2 - Phòng khám BS.CKI. Hoàng Thị Thủy</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Hoàng Thị Thủy hiện đang công tác tại Trung tâm Y khoa Diamond với vai trò là bác sĩ chuyên ngành Sản phụ khoa. Được biết đến với sự tận tâm trong chăm sóc bệnh nhân, bác sĩ Thủy còn nổi bật nhờ chuyên môn vững vàng trong việc chẩn đoán và điều trị các vấn đề liên quan đến sức khỏe sản phụ khoa của phụ nữ.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091147abdfef78c7a649b95e63fe6d15dd8b.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS.CKI. Hoàng Thị Thủy</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 58 Trần Não, Phường Bình An, Quận 2, Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Chủ Nhật: 17:00 – 20:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#134f5c;">
+<strong>5. Phòng khám phụ khoa quận 2 - Phòng khám BS. Lê Thị Bích Hường</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Lê Thị Bích Hường, Trưởng khoa Sản tại Bệnh viện Quận 2, được đánh giá là một chuyên gia giàu kinh nghiệm trong lĩnh vực khám và điều trị các bệnh lý sản phụ khoa. Nhiều sản phụ từng thăm khám đều cảm nhận sự an tâm lớn khi được bác sĩ Hường tư vấn, nhờ vào thái độ gần gũi và sự tận tâm đối với sức khỏe của bệnh nhân.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250911ca2adda5120a325f3804af6f57ae66d5.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS. Lê Thị Bích Hường</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 85 Lê Văn Thịnh, KP 5, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Chủ Nhật: 17:00 – 20:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#134f5c;">
+<strong>6. Phòng khám phụ khoa quận 2 - Phòng Khám Đa Khoa Tân Bình</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hiện nay, tỷ lệ phụ nữ mắc các bệnh phụ khoa đang có xu hướng gia tăng, trong khi các dấu hiệu của bệnh thường tiến triển một cách âm thầm, khó nhận biết. Nhiều trường hợp chỉ được phát hiện khi bệnh đã ở giai đoạn nặng, làm gia tăng khó khăn trong việc điều trị, kéo theo chi phí cao và nguy cơ biến chứng nguy hiểm. Vì vậy, việc khám phụ khoa định kỳ mỗi 6 tháng/lần là điều cần thiết đối với chị em, đặc biệt khi xuất hiện những triệu chứng bất thường ở vùng kín. Thói quen này không chỉ hỗ trợ phát hiện sớm các vấn đề sức khỏe mà còn góp phần quan trọng vào việc bảo vệ chức năng sinh sản bền vững.</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://dakhoatanbinh.vn/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám phụ khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> hiện được đánh giá là một lựa chọn đáng tin cậy, nổi bật với nhiều ưu điểm trong chăm sóc sức khỏe phụ khoa, mang lại sự an tâm cho chị em phụ nữ.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Cơ sở hạ tầng hiện đại và tiện nghi&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám không ngừng nâng cấp cơ sở vật chất thông qua việc đầu tư vào hệ thống khoa phòng chức năng được bố trí khoa học. Không gian khám chữa bệnh rộng rãi, sạch sẽ và đầy đủ tiện nghi, tạo sự thoải mái tối đa cho người bệnh. Các buồng bệnh luôn được duy trì vệ sinh nghiêm ngặt, đảm bảo một môi trường điều trị an toàn và thân thiện.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thiết bị y tế tại đây được trang bị đồng bộ theo các tiêu chuẩn hiện đại, hỗ trợ tối ưu cho quy trình thăm khám và điều trị. Việc áp dụng công nghệ tiên tiến giúp nâng cao độ chính xác trong chẩn đoán và rút ngắn thời gian điều trị, mang lại lợi ích thiết thực cho bệnh nhân.&nbsp;&nbsp;</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Đội ngũ bác sĩ chuyên khoa giỏi và tận tâm&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám tự hào sở hữu một đội ngũ bác sĩ phụ khoa giàu kinh nghiệm và có chuyên môn cao. Các bác sĩ làm việc với tinh thần trách nhiệm và tận tâm, chú trọng đến từng chi tiết trong quá trình thăm khám cũng như điều trị. Nhờ sự chuyên nghiệp và kỹ năng xuất sắc, mỗi chẩn đoán đều đạt độ chính xác cao, từ đó đưa ra phác đồ điều trị phù hợp với từng trường hợp cụ thể. Chính yếu tố con người này đã góp phần quan trọng vào việc xây dựng uy tín của phòng khám, tạo sự tin tưởng vững chắc trong lòng bệnh nhân.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250911e6fa3a5fd4522d67eaa7837efe171306.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Chị em yên tâm khám chữa phụ khoa tại Phòng Khám Đa Khoa Tân Bình</i>
+</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Phương pháp khám chữa phụ khoa hiện đại&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám áp dụng các phương pháp điều trị tiên tiến nhằm đảm bảo hiệu quả và an toàn cao nhất cho người bệnh. Sau khi hoàn tất thăm khám, bác sĩ sẽ tư vấn chi tiết về tình trạng sức khỏe, đưa ra hướng điều trị tối ưu kèm dự kiến chi phí cụ thể. Điều này giúp bệnh nhân dễ dàng cân nhắc và chủ động lựa chọn phương án điều trị thích hợp nhất.&nbsp;</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Chi phí hợp lý và minh bạch&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<a href="https://m.phongkhamdakhoatanbinh.vn/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám phụ khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> ghi điểm nổi bật nhờ mức chi phí hợp lý, đáp ứng tốt nhu cầu tài chính của phần lớn bệnh nhân. Mọi khoản thu được cập nhật công khai, rõ ràng theo từng hạng mục, tuân thủ đầy đủ quy định của Sở Y tế. Điều này tạo điều kiện để bệnh nhân dễ dàng dự trù chi phí và an tâm lựa chọn dịch vụ tại đây.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Quy trình khám chữa bệnh nhanh chóng&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Với phương châm lấy hài lòng và quyền lợi của người bệnh làm trọng tâm,&nbsp;</span>
+<a href="https://bvtwhue.com.vn/upload/files/10-phong-kham-da-khoa-tan-binh.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>phòng khám phụ khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> cung cấp quy trình khám chữa được tổ chức khoa học và hiệu quả. Người bệnh được đón tiếp nhiệt tình ngay từ khi bước vào, trong khi thời gian chờ đợi được giảm thiểu tối đa nhờ hệ thống đăng ký nhanh gọn. Đội ngũ nhân viên luôn tận tâm hỗ trợ, hướng dẫn và giải đáp tận tình, giúp bệnh nhân cảm thấy thoải mái và an tâm trong suốt quá trình khám chữa bệnh.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Không gian riêng tư, bảo mật thông tin&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hiểu rõ sự nhạy cảm của các vấn đề sức khỏe phụ khoa, phòng khám đặc biệt chú trọng đến việc bảo mật thông tin cá nhân của người bệnh. Mô hình khám chuyên biệt với tiêu chí “1 bác sĩ - 1 bệnh nhân” mang lại không gian kín đáo và riêng tư, giúp bệnh nhân tự tin chia sẻ vấn đề. Đồng thời, cách làm này giúp bác sĩ theo dõi sát sao từng trường hợp, đưa ra phương pháp điều trị phù hợp và hiệu quả nhất.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250911f3b15ee1517b45cd6d55888303ea9f7f.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng Khám Tân Bình hội tụ ưu điểm chất lượng ở lĩnh vực y tế</i>
+</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Thời gian làm việc linh hoạt&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám hoạt động từ 8h đến 20h mỗi ngày, bao gồm cả cuối tuần và ngày lễ. Điều này mang đến sự tiện lợi tối đa cho bệnh nhân khi sắp xếp thời gian khám chữa mà không bị gián đoạn công việc hay cuộc sống cá nhân. Đặc biệt, mọi chi phí đều được niêm yết rõ ràng, không phát sinh khoản thu ngoài giờ.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Hỗ trợ tư vấn trực tuyến miễn phí&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám triển khai hệ thống tư vấn online miễn phí 24/7, tạo điều kiện cho người bệnh chia sẻ các vấn đề nhạy cảm và nhận hỗ trợ một cách nhanh chóng. Ngoài ra, dịch vụ đặt lịch hẹn trực tuyến giúp người bệnh chọn khung giờ phù hợp và có thể yêu cầu bác sĩ nữ nếu cần, mang lại trải nghiệm chuyên nghiệp và thuận tiện hơn trong quá trình thăm khám.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Dịch vụ y tế chuyên nghiệp tại Phòng khám phụ khoa Tân Bình&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Nhờ vào sự đầu tư không ngừng nâng cao chất lượng dịch vụ,&nbsp;</span>
+<a href="https://www.vietpharmatech.vn/Uploads/files/top-10-phong-kham-da-khoa-tan-binh-chat-luong-nhat.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám phụ khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> ngày càng khẳng định vị trí là địa chỉ chăm sóc sức khỏe đáng tin cậy cho đông đảo chị em tại TP.HCM cùng các khu vực lân cận. Phòng khám nhận được nhiều phản hồi tích cực từ cộng đồng nhờ dịch vụ tận tâm và chuyên nghiệp.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Liên hệ với&nbsp;</span>
+<a href="https://suckhoedoisong.vn/phong-kham-da-khoa-tan-binh-495-cong-hoa-co-uy-tin-khong-169230511080018929.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám phụ khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> ngay hôm nay để được tư vấn chuyên sâu và hỗ trợ nhanh chóng về các vấn đề sức khỏe phụ khoa cũng như chi phí khám chữa.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thông tin liên hệ: Phòng khám đa khoa Tân Bình</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 495 Cộng Hòa, Phường 15, Quận Tân Bình</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hotline: 0282.206.3333 - tư vấn miễn phí 24/24</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Website:&nbsp;</span>
+<a href="https://dakhoatanbinh.vn">
+<span style="background-color:transparent;color:#1155cc;">
+<u>https://dakhoatanbinh.vn</u>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> |&nbsp;</span>
+<a href="https://phongkhamdakhoatanbinh.vn">
+<span style="background-color:transparent;color:#1155cc;">
+<u>https://phongkhamdakhoatanbinh.vn</u>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian hoạt động: 08:00 - 20:00 (Kể cả Chủ Nhật và ngày Lễ)</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hy vọng rằng, với những thông tin vừa chia sẻ, bài viết đã mang đến cho bạn các thông tin hữu ích về các phòng khám sản phụ khoa uy tín tại quận 2, giúp bạn có thêm cơ sở để cân nhắc và lựa chọn trước khi tiến hành thăm khám chuyên khoa.</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Xem thêm:&nbsp;</strong>
+</span>
+<a href="https://dakhoatanbinh.vn/giai-phap-chua-benh-phu-khoa-hien-dai-an-toan-chi-phi-hop-ly-5665.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Giải pháp chữa bệnh phụ khoa hiện đại, an toàn, chi phí hợp lý</u>
+</strong>
+</span>
+</a>
+</p>
+
+
+
+   <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+
+</body>
+</html>
+    `;
+
+}
