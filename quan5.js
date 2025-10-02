@@ -1324,3 +1324,341 @@ if (crurl.includes("https://bvdkht.vn/feedback/2993/phong-kham-da-lieu-quan-5"
     `;
 
 }
+
+
+
+
+
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/2993/phong-kham-phu-khoa-quan-5"
+)) {
+    document.querySelector('html').innerHTML = `
+   <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Top 6 phòng khám phụ khoa quận 5 uy tín chị em truyền tai nhau lựa chọn</title>
+        <meta content="Phòng khám phụ khoa quận 5 bao gồm: Phòng khám BS. Trương Thị Xinh, Phòng khám ThS.BS. Cao Hữu Thịnh, Phòng khám BS. Phạm Thị Thanh Thủy, Phòng khám BS.CKII. Trần Thiện Vĩnh Quân, Phòng khám BS. Lê Tấn Cảnh, Phòng Khám Đa Khoa Tân Bình" name="description">
+        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 6 phòng khám phụ khoa quận 5 uy tín chị em truyền tai nhau lựa chọn","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Top 6 phòng khám phụ khoa quận 5 uy tín chị em truyền tai nhau lựa chọn</h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+
+
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Tại Quận 5, TP.HCM, hiện có rất nhiều địa điểm khám chữa bệnh phụ khoa. Tuy nhiên, việc lựa chọn một phòng khám sản phụ khoa đáng tin cậy lại là một thử thách không nhỏ, bởi không phải mọi nơi đều đảm bảo chất lượng và uy tín.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Để hỗ trợ bạn trong việc tìm kiếm địa chỉ phù hợp, bài viết dưới đây sẽ tổng hợp danh sách 6 phòng khám sản phụ khoa uy tín tại Quận 5. Đây đều là các phòng khám ngoài giờ tại TP.HCM được đánh giá cao cả về dịch vụ và chất lượng.&nbsp;</span>
+</p>
+<p style="text-align:center;">
+<a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&amp;lng=en&amp;p=https://dakhoatanbinh.vn/">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091067774f85d9944f1a3be28861e9689c12.jpg">
+</a>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>1. Phòng khám phụ khoa quận 5 - Phòng khám BS. Trương Thị Xinh</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Trương Thị Xinh hiện là giảng viên tại Đại học Y Dược Thành phố Hồ Chí Minh và có nhiều năm kinh nghiệm làm việc tại các bệnh viện lớn như Bệnh viện Từ Dũ, Bệnh viện Đại học Y Dược, và Phụ sản An Đông. Là một chuyên gia với trình độ cao trong lĩnh vực sản phụ khoa, bác sĩ Xinh đã xây dựng uy tín trong việc khám và điều trị các bệnh lý liên quan.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091085dbf4b65732c4702a1d11eec4962e2d.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS. Trương Thị Xinh</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám của bác sĩ cung cấp đa dạng dịch vụ chăm sóc sức khỏe cho chị em phụ nữ, bao gồm siêu âm thai, khám thai định kỳ, tầm soát ung thư cổ tử cung, chụp nhũ ảnh và điều trị các bệnh viêm nhiễm phụ khoa. Nếu bạn đang chuẩn bị cho kế hoạch sinh con và mong muốn một quá trình quản lý thai kỳ hiệu quả, bạn có thể tin tưởng lựa chọn phòng khám của bác sĩ Xinh để được hỗ trợ tận tâm.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 208 Trần Bình Trọng, Phường 4, Quận 5, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Sáu: 16:00 – 19:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>2. Phòng khám phụ khoa quận 5 - Phòng khám ThS.BS. Cao Hữu Thịnh</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thạc sĩ, Bác sĩ Cao Hữu Thịnh là một chuyên gia trong lĩnh vực Sản phụ khoa, vô sinh - hiếm muộn và thụ tinh trong ống nghiệm, hiện đang làm việc tại Bệnh viện Từ Dũ. Với trình độ chuyên môn cao, bác sĩ Thịnh được nhiều chị em phụ nữ tin tưởng khi lựa chọn thăm khám và điều trị.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250910ef3923b13eceac79d33e9ed412746bc2.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám ThS.BS. Cao Hữu Thịnh</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám của bác sĩ Thịnh cung cấp các dịch vụ chuyên sâu như: xét nghiệm chẩn đoán vô sinh - hiếm muộn ở nam và nữ, khám thai và tư vấn tiền sản, kiểm tra và điều trị các bệnh lý phụ khoa, siêu âm thai, cũng như tư vấn biện pháp tránh thai. Do lượng bệnh nhân đông, để tiết kiệm thời gian và đảm bảo nhận được sự hỗ trợ nhanh chóng, bạn nên đặt lịch hẹn trước khi đến khám.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 141 Trần Bình Trọng, Phường 2, Quận 5, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Bảy: 17:00 – 19:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>3. Phòng khám phụ khoa quận 5 - Phòng khám BS. Phạm Thị Thanh Thủy</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ sản phụ khoa Phạm Thị Thanh Thủy là một chuyên gia giàu kinh nghiệm, đã công tác tại nhiều cơ sở y tế uy tín trong suốt sự nghiệp của mình.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091087c8216ad906ce2b236b750aa9a672f2.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS. Phạm Thị Thanh Thủy</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Được các bệnh nhân đánh giá cao, bác sĩ Thủy nổi bật với sự tận tâm, trách nhiệm và luôn đặt sức khỏe của bệnh nhân lên hàng đầu. Khi cần thăm khám hay chẩn đoán các vấn đề liên quan đến sản phụ khoa, bệnh nhân hoàn toàn có thể tin tưởng tìm đến phòng khám của bác sĩ để nhận điều trị hiệu quả. Đồng thời, các bà mẹ đang mang thai cũng có thể nhờ bác sĩ tư vấn về cách chăm sóc thai nhi, cũng như xây dựng chế độ dinh dưỡng phù hợp để đảm bảo sức khỏe cho cả mẹ và bé.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 271/1 An Dương Vương, Phường 3, Quận 5, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Chủ Nhật: 17:00 – 20:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>4. Phòng khám phụ khoa quận 5 - Phòng khám BS.CKII. Trần Thiện Vĩnh Quân</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ chuyên khoa II Trần Thiện Vĩnh Quân sở hữu trình độ cao trong lĩnh vực Sản phụ khoa, từng giữ vị trí Phó Giám đốc tại Bệnh viện Hùng Vương. Với kinh nghiệm dày dặn và năng lực chuyên môn vững vàng, phòng khám của bác sĩ Quân đã trở thành một địa chỉ tin cậy để chị em phụ nữ tìm đến khi có các vấn đề liên quan đến sản phụ khoa.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091147abdfef78c7a649b95e63fe6d15dd8b.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS.CKII. Trần Thiện Vĩnh Quân</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám cung cấp nhiều dịch vụ chuyên nghiệp như: khám phụ khoa định kỳ, chẩn đoán và điều trị các bệnh viêm nhiễm (âm đạo, cổ tử cung, tử cung), tầm soát ung thư cổ tử cung, siêu âm, khám thai và nhiều dịch vụ khác nhằm đáp ứng nhu cầu chăm sóc sức khỏe toàn diện cho phái nữ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 28 Phan Huy Chú, Phường 10, Quận 5, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Sáu: 17:00 – 20:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>5. Phòng khám phụ khoa quận 5 - Phòng khám BS. Lê Tấn Cảnh</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Lê Tấn Cảnh là chuyên gia có tay nghề cao trong việc điều trị các trường hợp phức tạp liên quan đến vấn đề vô sinh hiếm muộn, bao gồm cả các kỹ thuật như bơm tinh trùng hay thụ tinh trong ống nghiệm. Hiện ông đang công tác tại khoa Hiếm muộn của Bệnh viện Từ Dũ. Với trình độ chuyên môn vững vàng và kinh nghiệm phong phú, bác sĩ Cảnh đã giúp nhiều cặp vợ chồng đạt được ước mơ làm cha mẹ, mang lại niềm hạnh phúc lớn lao cho họ.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250911334ee8c8d8be0a94f2c1bdddc360a7c6.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS. Lê Tấn Cảnh</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 835/15 Trần Hưng Đạo, Phường 1, Quận 5, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Chủ Nhật: 17:00 – 20:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>6. Phòng khám phụ khoa quận 5 - Phòng Khám Đa Khoa Tân Bình</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<a href="https://m.dakhoatanbinh.vn/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> là cơ sở y tế đã được Sở Y tế cấp phép hoạt động, trải qua quy trình kiểm duyệt nghiêm ngặt với các yêu cầu khắt khe về quản lý, vệ sinh, an toàn, đạo đức nghề nghiệp, kỹ năng chuyên môn và nhiều tiêu chí khác. Việc này đảm bảo phòng khám đáp ứng đầy đủ các tiêu chuẩn về chất lượng dịch vụ, cơ sở vật chất, trang thiết bị cùng đội ngũ y bác sĩ, chuyên gia trong việc chăm sóc sức khỏe bệnh nhân.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Đội ngũ y bác sĩ chuyên nghiệp</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<a href="https://bvtwhue.com.vn/upload/files/10-phong-kham-da-khoa-tan-binh.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> tự hào sở hữu đội ngũ y bác sĩ có trình độ chuyên môn cao và kinh nghiệm làm việc tại các bệnh viện lớn, bao gồm cả bệnh viện quốc tế. Để không ngừng nâng cao kỹ năng chuyên môn và theo kịp công nghệ y tế tiên tiến, đội ngũ của phòng khám thường xuyên tham gia các chương trình trao đổi, học tập tại các bệnh viện uy tín trong và ngoài nước.&nbsp;</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_202509102a3d337a77331d12151f1bf6990997c5.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng Khám Đa Khoa Tân Bình khám chữa bệnh an toàn chất lượng cao</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Chất lượng đội ngũ y bác sĩ đóng vai trò quan trọng trong việc cung cấp dịch vụ y tế chuyên nghiệp. Với kiến thức sâu về các bệnh lý và phương pháp điều trị hiệu quả, đội ngũ y tế sẽ đảm bảo quá trình khám chữa bệnh diễn ra an toàn, chính xác và đạt hiệu quả cao nhất.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Không gian phòng khám sạch sẽ, khang trang</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Tại&nbsp;</span>
+<a href="https://www.vietpharmatech.vn/Uploads/files/top-10-phong-kham-da-khoa-tan-binh-chat-luong-nhat.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>phòng khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;">, vấn đề vệ sinh và không gian luôn được chú trọng. Phòng khám thực hiện khử trùng thường xuyên đối với các khu vực và trang thiết bị nhằm đảm bảo môi trường sạch sẽ tuyệt đối. Mặt khác, không gian rộng rãi tại đây tạo điều kiện thuận lợi cho bệnh nhân và nhân viên y tế di chuyển một cách thoải mái và an toàn, giảm thiểu rủi ro lây nhiễm hoặc va chạm không mong muốn. Phòng khám cam kết mang đến môi trường chăm sóc sức khỏe an toàn và tiện nghi cho mọi bệnh nhân.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Trang thiết bị hiện đại, nhập khẩu từ Châu Âu</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://congly.vn/phong-kham-da-khoa-tan-binh-495-cong-hoa-phong-kham-benh-xa-hoi-tphcm-427721.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> đầu tư sử dụng các máy móc và trang thiết bị hiện đại nhập khẩu từ Châu Âu, hỗ trợ tối ưu cho công tác chẩn đoán và điều trị bệnh. Việc ứng dụng thiết bị chất lượng cao giúp bác sĩ đưa ra kết quả chính xác hơn, đồng thời giảm thiểu những nguy cơ trong quá trình điều trị, mang lại sự an tâm cho bệnh nhân.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Mô hình "1 bệnh nhân - 1 bác sĩ - 1 y tá"&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Một mô hình khám bệnh hiệu quả có thể tối ưu hóa trải nghiệm của người bệnh, và&nbsp;</span>
+<a href="https://amavet.com.vn/kcfinder/upload/files/407150825.shtml">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>phòng khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> đã lựa chọn áp dụng mô hình "1 bệnh nhân - 1 bác sĩ - 1 y tá" nhằm đảm bảo sự riêng tư và tính chuyên nghiệp trong dịch vụ của mình. Với mô hình này, mỗi bệnh nhân sẽ được chăm sóc bởi một đội ngũ chuyên biệt gồm bác sĩ và y tá riêng.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">&nbsp; <img src="https://sf-static.upanhlaylink.com/img/image_20250911e6fa3a5fd4522d67eaa7837efe171306.jpg">
+</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng Khám Đa Khoa Tân Bình hội tụ nhiều yếu tố vượt trội</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Trong đó, bác sĩ chịu trách nhiệm thực hiện các cuộc khám chi tiết, cung cấp thông tin và tư vấn sức khỏe phù hợp cho từng trường hợp cụ thể. Y tá hỗ trợ bác sĩ trong các khâu xét nghiệm, quản lý thuốc và tiến hành các thủ tục liên quan. Cách làm này không chỉ nâng cao chất lượng dịch vụ mà còn mang lại sự thoải mái, tạo dựng niềm tin cho người bệnh trong suốt quá trình khám chữa.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Cam kết bảo mật và minh bạch về chi phí</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<a href="https://thanhnien.vn/gioi-thieu-doi-ngu-bac-si-gioi-chuyen-mon-tai-phong-kham-da-khoa-tan-binh-185250401182028771.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa Khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> luôn đặt trọng tâm vào việc bảo vệ quyền riêng tư và bảo mật thông tin của bệnh nhân, đây cũng là một điểm nhấn nhận được sự đánh giá cao. Các công nghệ bảo mật hiện đại và quy chuẩn nghiêm ngặt được áp dụng nhằm đảm bảo an toàn thông tin. Đồng thời, đội ngũ y tế được đào tạo kỹ lưỡng để tuân thủ các quy định về bảo vệ tính riêng tư, giúp bệnh nhân an tâm sử dụng dịch vụ.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám cũng ưu tiên xây dựng chính sách chi phí minh bạch, công khai và hợp lý với năng lực tài chính của từng bệnh nhân. Ngoài ra, nhiều chương trình hỗ trợ chi phí khác cũng được triển khai nhằm tạo điều kiện thuận lợi nhất cho người dân trong việc tiếp cận dịch vụ y tế chất lượng.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Để dễ dàng và chủ động hơn trong việc khám chữa bệnh, bạn có thể đặt lịch hẹn trực tiếp thông qua hệ thống tư vấn và đặt hẹn trực tuyến trên website hoặc liên hệ số hotline của Phòng khám Đa Khoa Tân Bình theo thông tin sau:</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám Đa Khoa Tân Bình&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 495 Cộng Hòa, Phường 15, Quận Tân Bình&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hotline: 0282.2063.333&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Website:&nbsp;</span>
+<a href="http://dakhoatanbinh.vn">
+<span style="background-color:transparent;color:#1155cc;">
+<u>dakhoatanbinh.vn</u>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Với những thông tin đã chia sẻ, hy vọng rằng bạn đã có được những thông tin hữu ích về các phòng khám sản phụ khoa uy tín tại quận 5, giúp bạn cân nhắc và lựa chọn phù hợp trước khi đi thăm khám.</span>
+</p>
+<p style="text-align:center;">
+<a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&amp;lng=en&amp;p=https://dakhoatanbinh.vn/">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091067774f85d9944f1a3be28861e9689c12.jpg">
+</a>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Xem thêm:&nbsp;</strong>
+</span>
+<a href="https://dakhoatanbinh.vn/goc-chia-se-phong-kham-phu-khoa-gan-day-duoc-nhieu-nguoi-phan-hoi-tot-5480.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Góc chia sẻ: Phòng khám phụ khoa gần đây được nhiều người phản hồi tốt</u>
+</strong>
+</span>
+</a>
+</p>
+
+
+
+
+
+   <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+
+</body>
+</html>
+    `;
+
+}
