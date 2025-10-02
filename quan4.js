@@ -1406,3 +1406,342 @@ if (crurl.includes("https://bvdkht.vn/feedback/3050/phong-kham-da-lieu-quan-4"
 
 }
 
+
+
+
+
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/3050/phong-kham-phu-khoa-quan-4"
+)) {
+    document.querySelector('html').innerHTML = `
+   <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Top 6 phòng khám phụ khoa quận 4 đáng tin cậy hiện nay</title>
+        <meta content="Phòng khám phụ khoa quận 4 bao gồm: Phòng khám BS. Đoàn Thị Phượng, Phòng khám BS. Phan Văn Quyền, Phòng khám BS.CKII Nguyễn Song Nguyên, Phòng khám BS. Đinh Gia Đức, Phòng khám BS.CKI Đặng Ngọc Khánh, Phòng Khám Đa Khoa Tân Bình" name="description">
+        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 6 phòng khám phụ khoa quận 4 đáng tin cậy hiện nay","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Top 6 phòng khám phụ khoa quận 2 thăm khám và điều trị ngoài giờ</h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+
+
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Việc chăm sóc sức khỏe bản thân luôn là ưu tiên hàng đầu đối với phụ nữ, đặc biệt là sức khỏe phụ khoa, bởi đây là lĩnh vực nhạy cảm thường gây ra những vấn đề ảnh hưởng đáng kể tới sinh hoạt hàng ngày và đời sống hôn nhân. Hiểu được nhu cầu tìm kiếm một địa chỉ thăm khám chất lượng và đáng tin cậy, bài viết dưới đây sẽ giới thiệu danh sách 5 phòng khám phụ khoa uy tín tại quận 4, giúp các chị em có thêm cơ hội lựa chọn phù hợp để chăm sóc sức khỏe một cách tốt nhất.</span>
+</p>
+<p style="text-align:center;">
+<a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&amp;lng=en&amp;p=https://dakhoatanbinh.vn/">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091067774f85d9944f1a3be28861e9689c12.jpg">
+</a>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>1. Phòng khám phụ khoa quận 4 - Phòng khám BS. Đoàn Thị Phượng</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám phụ khoa của bác sĩ Đoàn Thị Phượng là cái tên nổi bật đầu tiên trong danh sách 6 phòng khám phụ khoa uy tín tại Quận 4. Đây là địa chỉ được nhiều chị em tin tưởng chọn lựa nhờ chất lượng dịch vụ và sự chuyên nghiệp.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091085dbf4b65732c4702a1d11eec4962e2d.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS. Đoàn Thị Phượng</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Đoàn Thị Phượng, một chuyên gia phụ khoa nổi tiếng tại quận 4, sở hữu chuyên môn sâu rộng trong các lĩnh vực như cấp cứu ban đầu sản khoa, đặt thuốc âm đạo, soi cổ tử cung, và lấy bệnh phẩm để xét nghiệm tế bào ung thư. Phòng khám luôn được đánh giá cao nhờ đội ngũ y bác sĩ giàu kinh nghiệm, tận tâm và chu đáo, mang lại sự an tâm tuyệt đối cho khách hàng.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 56G Cư xá Vĩnh Hội, Phường 6, Quận 4, Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Bảy: 8:00 – 11:00 &amp; 17:00 – 21:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>2. Phòng khám phụ khoa quận 4 - Phòng khám BS. Phan Văn Quyền</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Phan Văn Quyền sở hữu nhiều năm kinh nghiệm chuyên sâu trong điều trị các bệnh lý như viêm cổ tử cung, viêm tử cung, viêm âm đạo... Tại phòng khám phụ khoa uy tín ở quận 4, bác sĩ trực tiếp thăm khám và điều trị, mang đến sự an tâm cho các chị em.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250910ef3923b13eceac79d33e9ed412746bc2.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS. Phan Văn Quyền</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Nhờ sự tận tâm và nhiệt huyết với nghề, phòng khám của bác sĩ Quyền đã trở thành địa chỉ chăm sóc sức khỏe phụ khoa đáng tin cậy tại quận 4. Với hệ thống công nghệ tiên tiến và trang thiết bị hiện đại, nơi đây giúp giải quyết nhanh chóng mọi vấn đề liên quan đến các bệnh lý phụ khoa. Đừng quên lưu lại địa chỉ phòng khám để đảm bảo nhận được sự hỗ trợ khi cần thiết.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 320/68 Vĩnh Khánh, Phường 10, Quận 4, Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Bảy: 17h00 – 19h00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>3. Phòng khám phụ khoa quận 4 - Phòng khám BS.CKII Nguyễn Song Nguyên</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ chuyên khoa II Nguyễn Song Nguyên sở hữu nhiều năm kinh nghiệm làm việc tại bệnh viện Từ Dũ, hiện nay đang đảm nhiệm vai trò chính tại Phòng khám Phụ khoa – BS.CKII. Nguyễn Song Nguyên.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091087c8216ad906ce2b236b750aa9a672f2.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS.CKII Nguyễn Song Nguyên</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám Phụ khoa – BS.CKII. Nguyễn Song Nguyên được đánh giá là một trong những phòng khám phụ khoa lớn và uy tín tại khu vực quận 4 và các quận lân cận. Với đội ngũ y bác sĩ tận tâm, chuyên nghiệp, cùng hệ thống cơ sở vật chất sạch sẽ, trang thiết bị tiên tiến, phòng khám luôn là lựa chọn hàng đầu cho những ai cần tư vấn, thăm khám và điều trị các bệnh lý về phụ khoa cũng như chăm sóc sức khỏe thai sản.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 125 Tôn Thất Thuyết, Phường 15, Quận 4, Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Bảy: 17:00 – 20:00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>4. Phòng khám phụ khoa quận 4 - Phòng khám BS. Đinh Gia Đức</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Với nhiều năm kinh nghiệm làm việc tại bệnh viện Từ Dũ, bác sĩ Đinh Gia Đức đã xây dựng được lòng tin vững chắc từ bệnh nhân. Luôn nhiệt huyết và tận tâm trong công việc khám chữa bệnh, bác sĩ Gia Đức thường xuyên là cái tên được nhắc đến trong cộng đồng chị em khi cần tìm một bác sĩ sản phụ khoa giỏi tại quận 4. Bên cạnh công việc tại bệnh viện, ngoài giờ hành chính, bác sĩ còn trực tiếp phụ trách phòng khám sản phụ khoa uy tín nằm trên đường Vĩnh Khánh, quận 4.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091147abdfef78c7a649b95e63fe6d15dd8b.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS. Đinh Gia Đức</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: Số 320/68 Vĩnh Khánh, Phường 10, Quận 4, Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Sáu: 17:30 – 20:30</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>5. Phòng khám phụ khoa quận 4 - Phòng khám BS.CKI Đặng Ngọc Khánh</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bác sĩ Đặng Ngọc Khánh, một chuyên gia hàng đầu trong lĩnh vực sản phụ khoa, hiện đang công tác tại khoa Hiếm muộn của bệnh viện Từ Dũ. Với sự tận tâm và trình độ chuyên môn cao, bác sĩ Khánh đã hỗ trợ rất nhiều người, giúp họ tự tin và cải thiện sức khỏe trong cuộc sống thường ngày. Đồng thời, bác sĩ còn đảm nhiệm vai trò chính tại một phòng khám phụ khoa uy tín ở quận 4, nằm trên đường Đoàn Văn Bơ.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250911ca2adda5120a325f3804af6f57ae66d5.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng khám BS.CKI Đặng Ngọc Khánh</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Nhờ vào nhiều năm kinh nghiệm cùng tay nghề vững vàng, phòng khám sản phụ khoa này đã trở thành địa chỉ đáng tin cậy và thu hút sự quan tâm từ đông đảo chị em phụ nữ. Phong cách gần gũi, giản dị nhưng đầy chuyên nghiệp của bác sĩ Khánh luôn được các bệnh nhân đánh giá cao và ghi nhận mỗi khi thăm khám tại đây.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 134/40 Đoàn Văn Bơ, Phường 12, Quận 4, Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc: Thứ Hai – Thứ Bảy 17h00 –&nbsp; 20h00</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>6. Phòng khám phụ khoa quận 4 - Phòng Khám Đa Khoa Tân Bình</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Đội ngũ bác sĩ chuyên môn vững vàng, kết hợp với hệ thống cơ sở vật chất hiện đại và tiện nghi, là yếu tố nổi bật giúp Phòng khám đa khoa Tân Bình trở thành lựa chọn tin cậy của nhiều bệnh nhân.</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://dakhoatanbinh.vn/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> mang đến dịch vụ chăm sóc sức khỏe toàn diện, tạo sự an tâm và thoải mái cho bệnh nhân. Với đội ngũ y bác sĩ giỏi, giàu kinh nghiệm thuộc các chuyên khoa hàng đầu, cùng cơ sở vật chất đạt chuẩn quốc tế, phòng khám cung cấp đầy đủ các dịch vụ như khám chữa bệnh nam khoa, phụ khoa, tầm soát và điều trị bệnh xã hội, chăm sóc sức khỏe thai kỳ, hỗ trợ đình chỉ thai an toàn, cũng như khám sức khỏe định kỳ.</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_20250911e6fa3a5fd4522d67eaa7837efe171306.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Phòng Khám Đa Khoa Tân Bình là địa chỉ khám chữa uy tín ở quận 3</i>
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Luôn coi "sức khỏe là tài sản vô giá",&nbsp;</span>
+<a href="https://vnexpress.net/6-diem-hut-nguoi-benh-cua-phong-kham-da-khoa-tan-binh-4630941.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> (tọa lạc tại số 495 Cộng Hòa, phường 15, quận Tân Bình) đã khẳng định vị trí là địa chỉ đáng tin cậy cho người dân TP HCM và các tỉnh thành lân cận trong việc thăm khám và chăm sóc sức khỏe toàn diện.</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://bvtwhue.com.vn/upload/files/10-phong-kham-da-khoa-tan-binh.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> được chứng nhận hoạt động bởi Sở Y tế, đảm bảo chất lượng dịch vụ khám chữa bệnh đạt tiêu chuẩn cao, đáng tin cậy và chuyên nghiệp. Đây là yếu tố quan trọng giúp bệnh nhân cũng như người thân cảm thấy an tâm khi lựa chọn nơi đây.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Đội ngũ y bác sĩ giàu chuyên môn và kinh nghiệm</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám quy tụ các bác sĩ chuyên khoa hàng đầu, từng công tác tại những bệnh viện lớn, với khả năng chẩn đoán chính xác và đưa ra phương pháp điều trị phù hợp nhất cho từng bệnh nhân. Đội ngũ này thường xuyên tham gia các khóa đào tạo chuyên sâu nhằm nâng cao trình độ chuyên môn và cập nhật những kỹ thuật y khoa tiên tiến từ các chuyên gia quốc tế.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Với bề dày kinh nghiệm trong ngành y, các bác sĩ tại đây không chỉ giỏi chuyên môn mà còn biết cách tạo dựng môi trường khám chữa bệnh thoải mái, giúp người bệnh giảm bớt căng thẳng và dễ dàng chia sẻ tình trạng sức khỏe. Nhờ vậy, việc xác định nguyên nhân và phát triển phác đồ điều trị trở nên chính xác hơn, mang lại hiệu quả tối ưu.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Cơ sở vật chất hiện đại, đáp ứng tiêu chuẩn quốc tế</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám được thiết kế khang trang, rộng rãi và luôn duy trì độ sạch sẽ theo tiêu chuẩn y khoa quốc tế. Các khu vực chức năng bao gồm phòng chờ, phòng khám, phòng xét nghiệm, phòng hồi sức cấp cứu, phòng tiểu phẫu và phẫu thuật đều tuân thủ quy định vô trùng nghiêm ngặt. Trang thiết bị y tế sử dụng tại đây được nhập khẩu từ châu Âu, đảm bảo độ hiện đại và hiệu quả trong xét nghiệm cũng như chẩn đoán bệnh.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Dịch vụ y tế với chất lượng vượt trội</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Nhân viên y tế tại đây luôn phục vụ bệnh nhân và người nhà bằng thái độ thân thiện, chu đáo. Quy trình thăm khám được tổ chức khoa học nhằm giảm thiểu thời gian chờ đợi. Ngoài ra, các thủ tục hành chính như nhập viện, xuất viện hay thanh toán đều diễn ra nhanh chóng, tiện lợi.</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám còn cung cấp dịch vụ tư vấn sức khỏe trực tuyến miễn phí 24/7 qua các nền tảng như Box chat, Zalo, Facebook hoặc qua điện thoại. Đây là giải pháp đặc biệt hữu ích cho bệnh nhân trong lẫn ngoài TP.HCM, giúp họ dễ dàng trao đổi thông tin về tình trạng sức khỏe. Đặc biệt, những vấn đề khó nói liên quan đến nam khoa hay phụ khoa cũng được bác sĩ tư vấn nhiệt tình, tạo điều kiện để bệnh lý được phát hiện kịp thời và điều trị hiệu quả.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Lịch hoạt động thuận tiện và linh hoạt</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám mở cửa xuyên suốt cả tuần, bao gồm cả thứ Bảy, Chủ nhật và ngày lễ, Tết với khung giờ từ 8h đến 20h. Đặc biệt, chi phí không thay đổi vào những ngày này, rất phù hợp cho người bận rộn làm việc theo giờ hành chính.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Mô hình khám chữa bệnh toàn diện khép kín&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám áp dụng mô hình chăm sóc toàn diện "một bác sĩ - một y tá - một bệnh nhân," nhằm tối ưu hóa chất lượng khám và điều trị. Bác sĩ chịu trách nhiệm giám sát toàn bộ quá trình từ thăm khám đến chữa bệnh, đảm bảo liệu trình được thực hiện chính xác và hiệu quả. Y tá được phân công chăm sóc riêng từng bệnh nhân, giúp nâng cao hiệu quả điều trị và tăng sự hài lòng. Người bệnh hoàn toàn yên tâm khi thông tin cá nhân được bảo mật một cách tuyệt đối.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:center;">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091545f32f6283553871e57ce9166a310d71.jpg">
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<i>Cơ sở y tế chuyên khoa hội tụ nhiều ưu điểm vượt trội</i>
+</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Chi phí khám chữa bệnh minh bạch, rõ ràng&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám áp dụng bảng giá dịch vụ y tế dựa trên mức chi phí của Sở Y tế, đảm bảo tính minh bạch và hợp lý. Các khoản chi phí liên quan đến thăm khám và điều trị luôn được tư vấn đầy đủ trước khi bệnh nhân hoặc người thân đồng thuận, mang lại sự an tâm khi tiến hành quá trình điều trị.&nbsp;&nbsp;</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<strong>Nhà thuốc đạt chuẩn GPP&nbsp;&nbsp;</strong>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Nhà thuốc tại phòng khám đạt tiêu chuẩn GPP, cung cấp các sản phẩm y tế và dược phẩm chất lượng cao. Đội ngũ dược sĩ tư vấn chuyên nghiệp hỗ trợ người bệnh sử dụng thuốc đúng cách, đảm bảo an toàn và đạt hiệu quả điều trị tốt nhất.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Với tinh thần trách nhiệm, phong cách làm việc chuyên nghiệp và sự nỗ lực không ngừng trong việc nâng cao chuyên môn,&nbsp;</span>
+<a href="https://congly.vn/phong-kham-da-khoa-tan-binh-495-cong-hoa-phong-kham-benh-xa-hoi-tphcm-427721.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám đa khoa Tân Bình</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> cam kết đáp ứng các tiêu chuẩn chất lượng của ngành y tế, mang đến dịch vụ chăm sóc sức khỏe toàn diện cho cộng đồng.&nbsp;&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Liên hệ Phòng khám đa khoa Tân Bình</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 495 Cộng Hòa, phường 15, quận Tân Bình, TP HCM</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hotline: 0282 206 3333</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Website:&nbsp;</span>
+<a href="https://dakhoatanbinh.vn">
+<span style="background-color:transparent;color:#1155cc;">
+<u>https://dakhoatanbinh.vn</u>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Bài viết trên đây vừa chia sẻ đến bạn những thông tin cơ bản và hữu ích về các phòng khám phụ khoa đáng tin cậy tại quận 4. Hy vọng rằng những thông tin này sẽ hỗ trợ tốt cho các bạn đang có nhu cầu tìm kiếm một địa chỉ khám phụ khoa chất lượng, với chi phí hợp lý tại khu vực Quận 4 cũng như các vùng lân cận trên cả nước.</span>
+</p>
+<p style="text-align:center;">
+<a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&amp;lng=en&amp;p=https://dakhoatanbinh.vn/">
+<img src="https://sf-static.upanhlaylink.com/img/image_2025091067774f85d9944f1a3be28861e9689c12.jpg">
+</a>
+</p>
+<p>
+<span style="background-color:transparent;color:#000000;">
+<strong>Xem thêm:&nbsp;</strong>
+</span>
+<a href="https://dakhoatanbinh.vn/phong-kham-phu-khoa-uy-tin-gan-nhat-tai-thanhpho-4455.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám phụ khoa uy tín tại TPHCM mà chị em có thể quan tâm</u>
+</strong>
+</span>
+</a>
+</p>
+
+
+
+   <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+
+</body>
+</html>
+    `;
+
+}
