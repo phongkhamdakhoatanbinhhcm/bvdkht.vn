@@ -419,7 +419,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/3068/phong-kham-phu-khoa-quan-3"
         <meta content="Phòng khám phụ khoa quận 3 bao gồm: Phòng khám BS.CKII. Nguyễn Thị Kiều Loan, Phòng khám ThS.BS. Lê Thị Kiều Dung, Phòng khám BS.CKI. Nguyễn Văn Giang, Phòng khám BS.CKII. Vũ Duy Minh, Phòng khám BS.CKII. Hoàng Thị Mỹ Ý, Phòng Khám Đa Khoa Tân Bình" name="description">
         <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
-            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 7 phòng khám phụ khoa quận 7 có bác sĩ chuyên môn cao tay nghề giỏi","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":">Top 6 phòng khám phụ khoa quận 3 được mọi người tin chọn","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
         </script>
         <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
     </head>
@@ -788,5 +788,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/3068/phong-kham-phu-khoa-quan-3"
     `;
 
 }
+
 
 
